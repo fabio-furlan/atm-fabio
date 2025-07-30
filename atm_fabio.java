@@ -73,7 +73,6 @@ public class atm_fabio {
 		System.out.println("\n\n");
 		System.out.println("                 ▲ SEJA BEM VINDO! \n\n");
 		System.out.println("▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n");
-
 	}
 
 	public static void menuprincipal() {
